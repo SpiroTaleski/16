@@ -1,0 +1,30 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restbasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "Partners"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "RTA"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "password": {
+                "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                "sym_iv": "encBMTlPoRGIIc7zy3X6AA==",
+                "sym_key": "ZDRoBopb8cleLnyGGkTWUSj/oPVBTuixE30E6ohGamWuCEATiGnYMQQ/WR/oHk4l5r0eor5eUUwPtRB+u3zRpvyX6x1bJy6K27rp7O/1LM2d5cubiZSrIuqt+uNm08PJt7gmvSY8tXSeP/J8heJbDYEkhtEnngm04/ZGHWG/y0GsPkGPCzb24adA+KVco+AqYi7zTQkqfFXBxRHKe+E/T7Dfkw+rTSKYt9Sbw9fsAlSWWICWGtpKJcR7luDFDD3IeQ6721q8bcAUdRREqWYVQpUvvhp6XyGTqDmJbm5kF+SAt6cjgGYemniumCmsnyF9WQUrsh9waAZhLBa68jYwDA==",
+                "value": "VkSs1RJZ+8NaaaagfrNXbA=="
+            },
+            "username": {
+                "value": "snaplogic.training2@interworks.com.mk"
+            }
+        },
+        "view_serial": 100
+    }
+}
